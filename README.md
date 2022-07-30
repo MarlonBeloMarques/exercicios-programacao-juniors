@@ -1,4 +1,4 @@
-# Exercícios de Programação para Iniciantes
+# Exercícios de Programação para Junior's
 
 Se tem uma coisa que nunca vai deixar de ser necessário na sua carreira como Desenvolvedor é a Lógica de Programação. Não importa se você é Senior, Especialista, Pleno etc., a lógica de programação sempre vai ser crucial no desenvolvimento de uma tarefa.
 
