@@ -8,6 +8,7 @@ Dado isso, você pode utilizar qualquer linguagem de programação ou paradigma 
 
 ### Lista de Exercícios:
   - Calculadora
+  - Ordenação
 
 ## 📄 1. Construa uma calculadora que realize as seguintes propriedades de: soma, subtração, multiplicação e divisão.
 
@@ -25,4 +26,20 @@ Dado isso, você pode utilizar qualquer linguagem de programação ou paradigma 
    - Para cada propriedade deve-se criar uma função que recebe dois parametros.
    - Deve-se utilizar ***switch-case***.
    - Caso insira uma propriedade diferente das propostas, deve-se mostrar uma mensagem de erro para o usuário.
+   
+## 📄 2. Construa um aplicativo onde o usuário insira uma ordem de números qualquer, e o aplicativo deve retornar esses números em ordem de forma crescente.
+
+ Você deve solicitar ao usuário para que insira uma quantidade de números quaisquer, após entrada dessas informações, ao pressionar enter, deve-se trazer essa mesma quantidade de números em ordem crescente.
+ 
+ Exemplos:
+  Entrada | 1456437 | 35821869 | 
+--- | --- | --- |
+  Saída | 1344567 | 12356889 |
+ 
+ #### Obrigatorio:
+   - A entrada das informações deve ser feita em uma única linha sem espaço entre os números.
+   - Deve-se utilizar somente ***if-else***, e ***for/foreach***.
+   - Caso a informação seja inserida de forma errada, deve-se retornar uma mensagem de Erro. 
+        - Ex: Inserir com espaço, inserir letra no meio etc.
+   - Seu código deve conter uma função onde recebe dois parâmetros onde deve retornar o maior número entre eles.
  
