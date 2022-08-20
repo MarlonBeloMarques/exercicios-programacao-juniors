@@ -41,5 +41,5 @@ Dado isso, você pode utilizar qualquer linguagem de programação ou paradigma 
    - Deve-se utilizar somente ***if-else***, e ***for/foreach***.
    - Caso a informação seja inserida de forma errada, deve-se retornar uma mensagem de Erro. 
         - Ex: Inserir com espaço, inserir letra no meio etc.
-   - Seu código deve conter uma função onde recebe dois parâmetros onde deve retornar o maior número entre eles.
+   - Seu código deve conter uma função onde recebe dois parâmetros e deve retornar o maior número entre eles.
  
